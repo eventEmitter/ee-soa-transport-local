@@ -1,5 +1,7 @@
 # ee-soa-transport-local
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-soa-transport-local.svg)](https://greenkeeper.io/)
+
 Local (same process) transport for ee SOA
 
 ## installation
